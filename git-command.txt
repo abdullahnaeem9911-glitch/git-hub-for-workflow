@@ -169,3 +169,12 @@
  2055  git restore testing.py 
  2056  ls
  2057  history
+
+ ilgfuweg
+ rfker
+ rhoqe
+ fnlqr
+ rnlqer
+ rgnlqg
+ rgnqge'
+ 
