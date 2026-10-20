@@ -1,0 +1,171 @@
+ 1887  ls
+ 1888  mkdir bachup
+ 1889  cd aws/
+ 1890  ls
+ 1891  cd ..
+ 1892  pwd
+ 1893  ls
+ 1894  cd back_ups/
+ 1895  ls
+ 1896  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/bachup/ /home/abdullah/Learn_paths/DevOps_Path/aws
+ 1897  /home/abdullah/Learn_paths/DevOps_Path
+ 1898  cd /home/abdullah/Learn_paths/DevOps_Path
+ 1899  cd back_ups/
+ 1900  ls
+ 1901  vim bp1.sh 
+ 1902  ./bp1.sh 
+ 1903  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/aws /home/abdullah/Learn_paths/DevOps_Path/bachup/
+ 1904  vim bp1.sh 
+ 1905  clear
+ 1906  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/aws /home/abdullah/Learn_paths/DevOps_Path/bachup/
+ 1907  vim bp1.sh 
+ 1908  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/aws /home/abdullah/Learn_paths/DevOps_Path/bachup/
+ 1909  vim bp1.sh 
+ 1910  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/aws /home/abdullah/Learn_paths/DevOps_Path/bachup/
+ 1911  vim bp1.sh 
+ 1912  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/aws /home/abdullah/Learn_paths/DevOps_Path/bachup/
+ 1913  vim bp1.sh 
+ 1914  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/aws /home/abdullah/Learn_paths/DevOps_Path/bachup/
+ 1915  ls
+ 1916  cd ..
+ 1917  ls
+ 1918  cd bachup/
+ 1919  ls
+ 1920  ls -t
+ 1921  ls -t /Learn_paths/DevOps_Path/bachup
+ 1922  ls -t
+ 1923  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/aws /home/abdullah/Learn_paths/DevOps_Path/bachup/
+ 1924  cd ..
+ 1925  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/aws /home/abdullah/Learn_paths/DevOps_Path/bachup/
+ 1926  ls
+ 1927  cd back_ups/
+ 1928  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/aws /home/abdullah/Learn_paths/DevOps_Path/bachup/
+ 1929  ls
+ 1930  cd ..
+ 1931  ls
+ 1932  cd bachup/
+ 1933  ls
+ 1934  ls -t
+ 1935  ls
+ 1936  cd ..
+ 1937  ls
+ 1938  cd back_ups/
+ 1939  ls
+ 1940  vim bp1.sh 
+ 1941  cd ..
+ 1942  cd back_ups/
+ 1943  ls
+ 1944  cd ..
+ 1945  cd bachup/
+ 1946  ls
+ 1947  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/aws /home/abdullah/Learn_paths/DevOps_Path/bachup/
+ 1948  cd ..
+ 1949  cd back_ups/
+ 1950  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/aws /home/abdullah/Learn_paths/DevOps_Path/bachup/
+ 1951  vim ./bp1.sh 
+ 1952  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/aws /home/abdullah/Learn_paths/DevOps_Path/bachup/
+ 1953  vim bp1.sh 
+ 1954  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/aws /home/abdullah/Learn_paths/DevOps_Path/bachup/
+ 1955  vim bp1.sh 
+ 1956  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/aws /home/abdullah/Learn_paths/DevOps_Path/bachup/
+ 1957  vim bp1.sh 
+ 1958  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/aws /home/abdullah/Learn_paths/DevOps_Path/bachup/
+ 1959  vim bp1.sh 
+ 1960  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/aws /home/abdullah/Learn_paths/DevOps_Path/bachup/
+ 1961  vim bp1.sh 
+ 1962  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/aws /home/abdullah/Learn_paths/DevOps_Path/bachup/
+ 1963  vim bp1.sh 
+ 1964  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/aws /home/abdullah/Learn_paths/DevOps_Path/bachup/
+ 1965  vim bp1.sh 
+ 1966  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/aws /home/abdullah/Learn_paths/DevOps_Path/bachup/
+ 1967  vim bp1.sh 
+ 1968  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/aws /home/abdullah/Learn_paths/DevOps_Path/bachup/
+ 1969  vim bp1.sh 
+ 1970  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/aws /home/abdullah/Learn_paths/DevOps_Path/bachup/
+ 1971  cd ..
+ 1972  ls
+ 1973  cd bachup/
+ 1974  ls
+ 1975  cd ..
+ 1976  ls
+ 1977  cd back_ups/
+ 1978  ls
+ 1979  vim bp1.sh 
+ 1980  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/aws /home/abdullah/Learn_paths/DevOps_Path/bachup/
+ 1981  cd
+ 1982  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/aws /home/abdullah/Learn_paths/DevOps_Path/bachup/
+ 1983  ls
+ 1984  cd Learn_paths/
+ 1985  ls
+ 1986  cd DevOps_Path/
+ 1987  ls
+ 1988  cd back_ups/
+ 1989  ./bp1.sh /home/abdullah/Learn_paths/DevOps_Path/aws /home/abdullah/Learn_paths/DevOps_Path/bachup/
+ 1990  ls
+ 1991  paw
+ 1992  pwd
+ 1993  crontab -e
+ 1994  ls
+ 1995  cd ..
+ 1996  cd bachup/
+ 1997  ls
+ 1998  cd ..
+ 1999  ls
+ 2000  vim shubham_linux1 
+ 2001  /usr/bin/python3 /home/abdullah/Learn_paths/DevOps_Path/git-hub-for-workflow/testing.py
+ 2002  python testing.py 
+ 2003  /usr/bin/python3 /home/abdullah/Learn_paths/DevOps_Path/git-hub-for-workflow/testing.py
+ 2004  python testing.py 
+ 2005  clear
+ 2006  python testing.py 
+ 2007  clear
+ 2008  sudo apt install pyhthon3
+ 2009  sudo apt install python
+ 2010  clear
+ 2011  python testing.py 
+ 2012  sudo apt install python-is-python3
+ 2013  python testing.py 
+ 2014  clear
+ 2015  rm testing.py 
+ 2016  ls
+ 2017  git init 
+ 2018  ls
+ 2019  ls -a
+ 2020  git status 
+ 2021  python testing.py 
+ 2022  /usr/bin/python3 /home/abdullah/Learn_paths/DevOps_Path/git-hub-for-workflow/testing.py
+ 2023  python testing.py 
+ 2024  git status 
+ 2025  git add testing.py 
+ 2026  ls
+ 2027  git status
+ 2028  git rm --cached testing.py 
+ 2029  git sta
+ 2030  git status 
+ 2031  ls
+ 2032  git add testing.py 
+ 2033  ls
+ 2034  git status 
+ 2035  git restore --staged testing.py 
+ 2036  git commit -m "added testing"
+ 2037  git commit -m "added testing file"
+ 2038  git status 
+ 2039  git commint -m "added testing.py file"
+ 2040  git commit -m "added testing.py file"
+ 2041  git commit -m "Add testing.py"
+ 2042  git config 
+ 2043  git config --global user.name "Abdulah"
+ 2044  git config --global user.email "abdulahnaeem9911@gmail.com"
+ 2045  git commit -m "add testing.py"
+ 2046  git status 
+ 2047  rm testing.py 
+ 2048  git status 
+ 2049  git restore testing.py 
+ 2050  rm testing.py 
+ 2051  ls
+ 2052  s
+ 2053  slsls
+ 2054  git status 
+ 2055  git restore testing.py 
+ 2056  ls
+ 2057  history
